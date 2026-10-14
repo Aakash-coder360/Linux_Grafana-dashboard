@@ -1,0 +1,8 @@
+.vault_pass
+*.vault_pass
+prometheus-data/
+grafana/
+loki/
+.DS_Store
+*.swp
+*~
